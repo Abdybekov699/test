@@ -1,0 +1,6 @@
+name = input('марка')
+pamyat = input('память')
+operativka = input ('оперативка')
+procesor = input('процессор')
+opisanie = (name, pamyat, operativka, procesor)
+print(opisanie)
